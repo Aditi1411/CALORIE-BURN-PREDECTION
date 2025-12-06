@@ -1,4 +1,6 @@
 streamlit
 numpy
 scikit-learn
-gdown
+huggingface-hub
+
+
