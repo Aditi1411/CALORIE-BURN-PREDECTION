@@ -24,8 +24,9 @@ st.sidebar.title(" Calorie Burn Predictor")
 st.sidebar.subheader("📌 About Project")
 st.sidebar.write(
     "This **Calorie Burn Prediction System** uses a "
-    "**Random Forest Regressor** trained on fitness data "
+    "**ML model** trained on fitness data "
     "to estimate calories burned during physical activity."
+   
 )
 
 st.sidebar.subheader("🧠 Features Used")
@@ -98,6 +99,7 @@ st.markdown(
     "</p>",
     unsafe_allow_html=True
 )
+
 
 
 
